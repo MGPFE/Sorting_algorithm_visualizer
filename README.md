@@ -13,7 +13,7 @@ At the moment it supports 3 types of sorting algorithms:
 - Bubble sort
 
 ## Screenshots
-![Bez tytułu](https://user-images.githubusercontent.com/65130519/156888791-bf18c424-542a-4867-8d6c-67a5a8d66dd7.png)
+![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/65130519/156927737-189388ba-b377-48b2-b5fc-55bdf1826b8f.gif)
 
 ## TODO
 - [ ] Add more sorting algorithms,
